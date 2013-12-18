@@ -1,0 +1,7 @@
+https://raw.github.com/InnerBalloons/data/master/nl/allebedrijvenin-nl.jl
+https://raw.github.com/InnerBalloons/data/master/nl/booking-nl.jl
+https://raw.github.com/InnerBalloons/data/master/nl/detelefoongids-nl.jl
+https://raw.github.com/InnerBalloons/data/master/nl/facebook-nl.jl
+https://raw.github.com/InnerBalloons/data/master/nl/foursquare-nl.jl
+https://raw.github.com/InnerBalloons/data/master/nl/googleplaces-nl.jl
+tps://raw.github.com/InnerBalloons/data/master/nl/tupalo-nl.jl

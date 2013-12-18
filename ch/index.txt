@@ -1,0 +1,7 @@
+https://raw.github.com/InnerBalloons/data/master/ch/facebook-ch.jl
+https://raw.github.com/InnerBalloons/data/master/ch/foursquare-ch.jl
+https://raw.github.com/InnerBalloons/data/master/ch/googleplaces-ch.jl
+https://raw.github.com/InnerBalloons/data/master/ch/qype-ch.jl
+https://raw.github.com/InnerBalloons/data/master/ch/tupalo-ch.jl
+https://raw.github.com/InnerBalloons/data/master/ch/yellowlocal-ch.jl
+https://raw.github.com/InnerBalloons/data/master/ch/yelp-ch.jl

@@ -1,0 +1,8 @@
+https://raw.github.com/InnerBalloons/data/master/se/eniro-se.jl
+https://raw.github.com/InnerBalloons/data/master/se/facebook-se.jl
+https://raw.github.com/InnerBalloons/data/master/se/foursquare-se.jl
+https://raw.github.com/InnerBalloons/data/master/se/googleplaces-se.jl
+https://raw.github.com/InnerBalloons/data/master/se/hitta-se.jl
+https://raw.github.com/InnerBalloons/data/master/se/qype-se.jl
+https://raw.github.com/InnerBalloons/data/master/se/tupalo-se.jl
+https://raw.github.com/InnerBalloons/data/master/se/yelp-se.jl

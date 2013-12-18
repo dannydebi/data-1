@@ -1,0 +1,15 @@
+https://raw.github.com/InnerBalloons/data/master/au/business-au.jl
+https://raw.github.com/InnerBalloons/data/master/au/facebook-au.jl
+https://raw.github.com/InnerBalloons/data/master/au/foursquare-au.jl
+https://raw.github.com/InnerBalloons/data/master/au/googleplaces-au.jl
+https://raw.github.com/InnerBalloons/data/master/au/hipages-au.jl
+https://raw.github.com/InnerBalloons/data/master/au/hotfrog-au.jl
+https://raw.github.com/InnerBalloons/data/master/au/localstore-au.jl
+https://raw.github.com/InnerBalloons/data/master/au/nearyou-au.jl
+https://raw.github.com/InnerBalloons/data/master/au/qype-au.jl
+https://raw.github.com/InnerBalloons/data/master/au/superpages-au.jl
+https://raw.github.com/InnerBalloons/data/master/au/truelocal-au.jl
+https://raw.github.com/InnerBalloons/data/master/au/tupalo-au.jl
+https://raw.github.com/InnerBalloons/data/master/au/womo-au.jl
+https://raw.github.com/InnerBalloons/data/master/au/yellowpages-au.jl
+https://raw.github.com/InnerBalloons/data/master/au/yelp-au.jl

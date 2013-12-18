@@ -1,0 +1,16 @@
+https://raw.github.com/InnerBalloons/data/master/de/11880-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/facebook-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/foursquare-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/gelbeseiten-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/golocal-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/googleplaces-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/goyellow-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/kennstdueinen-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/klicktel-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/meinestads-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/qype-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/stadtbranchenbuch-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/tupalo-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/yalwa-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/yellowmap-de.jl
+https://raw.github.com/InnerBalloons/data/master/de/yelp-de.jl

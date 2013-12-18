@@ -1,0 +1,7 @@
+https://raw.github.com/InnerBalloons/data/master/ie/facebook-ie.jl
+https://raw.github.com/InnerBalloons/data/master/ie/foursquare-ie.jl
+https://raw.github.com/InnerBalloons/data/master/ie/goldenpages-ie.jl
+https://raw.github.com/InnerBalloons/data/master/ie/googleplaces-ie.jl
+https://raw.github.com/InnerBalloons/data/master/ie/qype-ie.jl
+https://raw.github.com/InnerBalloons/data/master/ie/tupalo-ie.jl
+https://raw.github.com/InnerBalloons/data/master/ie/yelp-ie.jl

@@ -1,0 +1,9 @@
+https://raw.github.com/InnerBalloons/data/master/fr/118712-fr.jl
+https://raw.github.com/InnerBalloons/data/master/fr/123devis-fr.jl
+https://raw.github.com/InnerBalloons/data/master/fr/facebook-fr.jl
+https://raw.github.com/InnerBalloons/data/master/fr/foursquare-fr.jl
+https://raw.github.com/InnerBalloons/data/master/fr/googleplaces-fr.jl
+https://raw.github.com/InnerBalloons/data/master/fr/pagesjaunes-fr.jl
+https://raw.github.com/InnerBalloons/data/master/fr/qype-fr.jl
+https://raw.github.com/InnerBalloons/data/master/fr/tupalo-fr.jl
+https://raw.github.com/InnerBalloons/data/master/fr/yelp-fr.jl

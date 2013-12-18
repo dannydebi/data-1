@@ -1,0 +1,9 @@
+https://raw.github.com/InnerBalloons/data/master/dk/degulesider-dk.jl
+https://raw.github.com/InnerBalloons/data/master/dk/eniro-dk.jl
+https://raw.github.com/InnerBalloons/data/master/dk/facebook-dk.jl
+https://raw.github.com/InnerBalloons/data/master/dk/foursquare-dk.jl
+https://raw.github.com/InnerBalloons/data/master/dk/googleplaces-dk.jl
+https://raw.github.com/InnerBalloons/data/master/dk/krak-dk.jl
+https://raw.github.com/InnerBalloons/data/master/dk/qype-dk.jl
+https://raw.github.com/InnerBalloons/data/master/dk/tupalo-dk.jl
+https://raw.github.com/InnerBalloons/data/master/dk/yelp-dk.jl
